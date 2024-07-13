@@ -11,5 +11,11 @@ public class Main {
 
             System.out.println("Weoclome....");
         }
+        for (int j = 1; j <= 5; j++) {
+            System.out.println("j = "+ j);
+
+        }
+        }
+
     }
 }
